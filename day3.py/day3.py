@@ -1,11 +1,11 @@
 ge = int(18) 
 height = 1.73
 comp = 7j
-print(age)
+print("age")
 print(height)
 print(comp)
 #--------------------------
-b = int(input('base = '))
+b = int(input('base = 10'))
 h = int(input('height = '))
 print('The area is = ', 0.5*b*h)
 side_a = int(input('Side a = '))
